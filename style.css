@@ -25,6 +25,13 @@ h1{
     font-size: small;
 }
 
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
 .column {
     float: left;
     width: 50%;
