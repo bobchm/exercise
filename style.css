@@ -72,6 +72,7 @@ h1{
 
 .imgcaption {
     text-align: center;
-    font-size: small;
+    font-size: medium;
+    margin-bottom:30px;
 }
 
